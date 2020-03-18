@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/kuroda.unity
+    guid: 76849b7fc50ef1c4d893f2bf0b13ea9b
   m_configObjects: {}
